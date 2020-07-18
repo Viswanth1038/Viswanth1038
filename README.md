@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am a tech enthusiast.
+
+### Mostly do mobile and web development. 
+
+📫 How to reach me: <a href="https://twitter.com/MSViswanth" target="_blank">Twitter</a>
+
+### Stop by <a href="https://mediorgan.github.io/">Mediorgan</a>
